@@ -3,7 +3,7 @@
 
 body{
 
-	background-color: lightgreen;
+	background-color: rgb(197, 142, 238);
 }
 
 h1, h3 {
@@ -22,7 +22,7 @@ hr {
 
 /*********************CLASS*****************/
 
-.circular{
+.circular {
 	border-radius: 100%;
 }
 
